@@ -1,2 +1,2 @@
 # drumkit
-Drum Kit made with JS 
+Drum Kit made with pure JS.
